@@ -3,9 +3,7 @@
 The following information applies to the software code developed
 by employees of NIST.
 
-Additional LICENSES are located within the code base and are provided by 3rd 
-party developers.
-==============================================================================
+---
 
 This software was developed by employees of the National Institute of
 Standards and Technology (NIST), an agency of the Federal Government and is
@@ -32,5 +30,13 @@ BY PERSONS OR PROPERTY OR OTHERWISE, AND WHETHER OR NOT LOSS WAS SUSTAINED
 FROM, OR AROSE OUT OF THE RESULTS OF, OR USE OF, THE SOFTWARE OR SERVICES
 PROVIDED HEREUNDER.
 
+---
+
 To see the latest statement, please visit:
-[https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-and-software](Copyright, Fair Use, and Licensing Statements for SRD, Data, and Software)
+[Copyright, Fair Use, and Licensing Statements for SRD, Data, and Software](
+https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-and-software)
+
+## Third Party Software
+
+If software developed by third parties is included in this repository,
+licensing terms for each package are provided below.
