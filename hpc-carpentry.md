@@ -8,7 +8,7 @@ but possibly more generally.
   lesson. Covers basic cluster operations, and a bit of MPI 
   programming.  Of the lessons here, this is likely the 
   most teachable.
-- [HPC Chapel](https://github.com/hpc-carpentry/hpc-chapel).  
+- [HPC Chapel](https://github.com/hpc-carpentry/hpc-chapel).
   Chapel is a parallel programming language that has many parallel 
   abstractions, and illustrates the principles of parallel 
   programming with a minimum of operational cruft.  The downside 
