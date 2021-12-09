@@ -1,5 +1,9 @@
-# These owners will be the default owners for everything in
-# the repo. Unless a later match takes precedence,
-# @softwarecarpentryinstructors will be requested for
-# review when someone opens a pull request.
-*       @softwarecarpentryinstructors
+# This file lists the contributors responsible for the
+# repository content. They will also be automatically
+# asked to review any pull request made in this repository.
+
+# Each line is a file pattern followed by one or more owners.
+# The sequence matters: later patterns take precedence.
+
+# FILES  OWNERS
+*        @usnistgov/softwarecarpentryinstructors
