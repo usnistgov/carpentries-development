@@ -38,4 +38,7 @@ for the purpose.
 <!-- links -->
 
 [carpentries]: https://carpentries.org
+[li-bsd]: https://opensource.org/licenses/BSD-3-Clause
+[li-gpl]: https://opensource.org/licenses/GPL-3.0
+[li-mit]: https://opensource.org/licenses/MIT
 [nist-carp]: https://list.nist.gov/software-carpentry-instructors
