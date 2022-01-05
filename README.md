@@ -8,7 +8,7 @@ This is work in progress and not considered ready for broader use.
 ## Contact
 
 This repository is by and for the [NIST Carpentries Instructors][nist-carp],
-and @usnistgov/SoftwareCarpentryInstructors.
+and [@usnistgov/SoftwareCarpentryInstructors][swci].
 
 ## Disclaimer
 
@@ -42,3 +42,4 @@ for the purpose.
 [li-gpl]: https://opensource.org/licenses/GPL-3.0
 [li-mit]: https://opensource.org/licenses/MIT
 [nist-carp]: https://list.nist.gov/software-carpentry-instructors
+[swci]: https://github.com/orgs/usnistgov/teams/softwarecarpentryinstructors
