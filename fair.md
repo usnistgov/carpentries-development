@@ -244,6 +244,7 @@ in a FAIR frame of mind.
 [git]: https://git-scm.com
 [git-open]: https://github.com/usnistgov/opensource-repo
 [gofair]: https://www.go-fair.org/fair-principles/
+[lc]: https://librarycarpentry.org/
 [lc-fair]: https://librarycarpentry.org/Top-10-FAIR//2018/12/01/research-software/
 [lc-fair-poster]: https://librarycarpentry.org/Top-10-FAIR/files/poster_10things_FAIRsoftware.pdf
 [lint]: https://en.wikipedia.org/wiki/Lint_(software)
