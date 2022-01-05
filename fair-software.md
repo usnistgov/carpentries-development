@@ -1,7 +1,7 @@
 # FAIR Software
 
 The following material is paraphrased from the NIST-internal
-[Data Sponsorship][sponsors] repository by @tkphd.
+[Data Sponsorship][sponsors] repository by [@tkphd][tkphd].
 
 ## Table of Contents
 
@@ -26,8 +26,8 @@ What does FAIR even mean? The following sections reproduce the
 summary from [FAIR4RS][fair4rs], based on the original
 [FAIR paper][fair].
 
-Think you know FAIR? Please [use this tool][fair-aware] to check your
-awareness!
+Think you know FAIR? Check yourself in detail with the
+[FAIR-Aware tool][fair-aware]!
 
 ### Findable
 
@@ -134,9 +134,7 @@ software FAIR][lc-fair-poster] (PDF). An annotated list follows.
 
 [*Good enough practices in scientific computing*][gepsc] is an
 excellent paper outlining what you need to do to produce good science
-in a FAIR frame of mind.
-
-*tl;dr* follows.
+in a FAIR frame of mind. *tl;dr* follows.
 
 ### Data management
 
@@ -254,3 +252,4 @@ in a FAIR frame of mind.
 [sp811]: https://dx.doi.org/10.6028/NIST.SP.811e2008
 [sponsors]: https://gitlab.nist.gov/gitlab/tkphd/data-sponsorship
 [taxon]: https://doi.org/10.18434/T4/1432795
+[tkphd]: https://github.com/tkphd

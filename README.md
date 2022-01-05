@@ -10,6 +10,12 @@ This is work in progress and not considered ready for broader use.
 This repository is by and for the [NIST Carpentries Instructors][nist-carp],
 and [@usnistgov/SoftwareCarpentryInstructors][swci].
 
+## FAIR Software
+
+Some advice and links on developing FAIR software (Findable,
+Accessible, Interoperable, and Reusable) can be found in
+[`fair-software.md`](fair-software.md).
+
 ## Disclaimer
 
 Third-party lessons, software, products, commercial entities,
